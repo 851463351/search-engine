@@ -1,0 +1,4 @@
+./../../conf/enWordlib
+./../../conf/cnWordlib
+./../../conf/stop_words_eng/stop_words_eng.txt
+./../../conf/stop_words_zh/stop_words_zh.txt
